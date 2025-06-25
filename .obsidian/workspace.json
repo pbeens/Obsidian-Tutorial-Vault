@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "60e4287d9ed2bb10",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8cd5d3c3a67c576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c748637969bca59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Basics/✍️ Creating Your First Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "✍️ Creating Your First Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ea958702de9285f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa29b7c30b7243e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f9786505490a112",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f945354ad8d9cf25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cfddea681e299186",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d19ac5cfdc71690",
+    "type": "split",
+    "children": [
+      {
+        "id": "809e5980f73b0443",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1856230e9d664894",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "ef67275bbd085e1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "efd9089e0c37ccb0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51c7230d78b93aa3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7c748637969bca59",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "02-Basics/✍️ Creating Your First Note.md",
+    "01-Start-Here/🔧 First-Time Setup Checklist.md",
+    "01-Start-Here/🗺 How to Use This Vault.md",
+    "01-Start-Here/📖 Getting Started - What is Obsidian.md",
+    "01-Start-Here/Welcome to the Obsidian Beginner Vault.md",
+    "README.md",
+    "01-Start-Here/🔍 Vault Overview Map.md",
+    "Welcome.md",
+    "08-Build-Your-Own",
+    "07-My-System",
+    "images",
+    "templates",
+    "06-Plugins-Misc",
+    "05-Kanban",
+    "04-Projects",
+    "04-DataView",
+    "03-Tasks",
+    "02-Basics"
+  ]
+}
