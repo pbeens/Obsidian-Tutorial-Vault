@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e8cd5d3c3a67c576",
+        "id": "31131e2efb0aa239",
         "type": "tabs",
         "children": [
           {
-            "id": "7c748637969bca59",
+            "id": "c21566ab4c4ad198",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Basics/✍️ Creating Your First Note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "✍️ Creating Your First Note"
+              "title": "New tab"
             }
           }
         ]
@@ -168,15 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c748637969bca59",
+  "active": "c21566ab4c4ad198",
   "lastOpenFiles": [
-    "Untitled.md",
+    "README.md",
     "02-Basics/✍️ Creating Your First Note.md",
+    "Untitled.md",
     "01-Start-Here/🔧 First-Time Setup Checklist.md",
     "01-Start-Here/🗺 How to Use This Vault.md",
     "01-Start-Here/📖 Getting Started - What is Obsidian.md",
     "01-Start-Here/Welcome to the Obsidian Beginner Vault.md",
-    "README.md",
     "01-Start-Here/🔍 Vault Overview Map.md",
     "Welcome.md",
     "08-Build-Your-Own",
