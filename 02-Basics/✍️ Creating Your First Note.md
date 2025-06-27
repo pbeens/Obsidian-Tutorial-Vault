@@ -32,3 +32,8 @@ This is my very first note in Obsidian!
 - It's plain text.
 - It's written in Markdown.
 - I can link to other notes using [[double brackets]].
+```
+
+---
+
+➡️ Next: [[02-Basics/📁 Organizing Your Notes]] – Learn how to use folders and tags to keep your notes tidy.

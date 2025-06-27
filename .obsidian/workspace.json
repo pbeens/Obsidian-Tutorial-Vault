@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "31131e2efb0aa239",
+        "id": "3f6efcbf6096fec9",
         "type": "tabs",
         "children": [
           {
-            "id": "c21566ab4c4ad198",
+            "id": "9bad2b22b4104b8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20250625143041.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250625143041"
+            }
+          },
+          {
+            "id": "09b7892c8c62f36f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tags",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "images/Pasted image 20250625143041.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Pasted image 20250625143041"
             }
           },
           {
@@ -147,12 +159,12 @@
               "title": "Outline of Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,9 +176,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c21566ab4c4ad198",
+  "active": "3f9786505490a112",
   "lastOpenFiles": [
     "README.md",
+    "02-Basics/📄 Formatting Notes with Markdown.md",
+    "02-Basics/🧭 Navigating with the Graph View.md",
+    "images/Pasted image 20250625161542.png",
+    "02-Basics/🔍 Searching & Navigating Your Vault.md",
+    "02-Basics/📅 Using Daily Notes.md",
+    "2025-06-25.md",
+    "02-Basics/📌 Pinning & Bookmarking Notes.md",
+    "images/Pasted image 20250625144633.png",
+    "02-Basics/🏷 Using Tags Effectively.md",
+    "images/Pasted image 20250625143041.png",
+    "02-Basics/🔗 Linking Notes with [[WikiLinks]].md",
+    "02-Basics/📁 Organizing Your Notes.md",
     "02-Basics/✍️ Creating Your First Note.md",
     "Untitled.md",
     "01-Start-Here/🔧 First-Time Setup Checklist.md",
